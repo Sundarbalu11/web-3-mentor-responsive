@@ -77,4 +77,31 @@
 	.d_none{
 		display:none;
 	}
+	.choose_gap{
+		gap:20px;
+	}
+	.course_gap{
+		gap:20px;
+	}
+	.em_gap{
+		gap:20px;
+	}
+	.order_1{
+		order:1;
+	}
+	.order_2{
+		order:2;
+	}
+	.dis_gap{
+		gap:20px;
+	}
+	.contact_res{
+		text-align:center;
+		gap:20px;
+	}
+	.contact_rht_res{
+		display:flex;
+		justify-content:center;
+	}
+	
 }
